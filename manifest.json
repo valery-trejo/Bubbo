@@ -1,20 +1,27 @@
 {
-  "background_color": "#FDEDF3",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "bubbo — rings off the street",
-  "orientation": "any",
-  "scope": "/Bubbo/",
   "short_name": "bubbo",
-  "start_url": "/Bubbo/index.html",
+  "description": "Plataforma de e-commerce interactiva y moderna para la marca de joyería urbana bubbo.",
+  "start_url": "/Bubbo/",
+  "scope": "/Bubbo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDEDF3",
   "theme_color": "#EE2B7B",
+  "dir": "ltr",
+  "lang": "es",
   "icons": [
     {
-      "src": "./logo.jpg",
+      "src": "logo.jpg",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
     }
-  ],
-  "id": "com.bubbo.joyas",
-  "description": "bubbo — rings off the street"
+  ]
 }
