@@ -2,15 +2,15 @@
   "background_color": "#FDEDF3",
   "dir": "ltr",
   "display": "standalone",
-  "name": "bubbo",
+  "name": "bubbo — rings off the street",
   "orientation": "any",
   "scope": "/Bubbo/",
   "short_name": "bubbo",
-  "start_url": "/Bubbo/",
+  "start_url": "/Bubbo/index.html",
   "theme_color": "#EE2B7B",
   "icons": [
     {
-      "src": "logo.jpg",
+      "src": "./logo.jpg",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
