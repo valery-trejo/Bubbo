@@ -1,0 +1,38 @@
+{
+  "background_color": "#fdedf3",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "bubbo",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "bubbo",
+  "start_url": "/",
+  "theme_color": "#ee2b7b",
+  "icons": [
+    {
+      "src": "https://bubbo-joyas.netlify.app/[PEGA_AQUÍ_LA_URL_DEL_FAVICON]",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://bubbo-joyas.netlify.app/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "com.bubbo.joyas",
+  "description": "Anillos"
+}
